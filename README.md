@@ -4,27 +4,7 @@ This repository is used for analyzing the topological relationships of geologica
 
 
 
-
-Requirements：
-h5py；
-matplotlib；
-numpy；
-scikit-learn；
-scipy；
-torch；
-torch-cluster；
-torch-geometric；
-torch-scatter；
-torch-sparse；
-torch-spline-conv；
-torchaudio；
-torchvision；
-tqdm
-
 Usage
-
-
-
  
 
 Replace data.edge_index and data.x in autoencoder_linkechange.py with the graph nodes and known edges of your own geologic topology graph;
