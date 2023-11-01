@@ -2,9 +2,6 @@
 What is this repository for?
 This repository is used for analyzing the topological relationships of geological boundaries.
 
-
-
-Usage
  
 
 Replace data.edge_index and data.x in autoencoder_linkechange.py with the graph nodes and known edges of your own geologic topology graph;
