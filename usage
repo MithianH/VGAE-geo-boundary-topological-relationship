@@ -1,0 +1,16 @@
+
+Requirements：
+h5py；
+matplotlib；
+numpy；
+scikit-learn；
+scipy；
+torch；
+torch-cluster；
+torch-geometric；
+torch-scatter；
+torch-sparse；
+torch-spline-conv；
+torchaudio；
+torchvision；
+tqdm
